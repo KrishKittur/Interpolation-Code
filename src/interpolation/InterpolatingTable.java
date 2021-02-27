@@ -34,8 +34,4 @@ public class InterpolatingTable {
         );
     }
 
-    public static void main(String[] args) {
-        System.out.println(get(1.0239).rpm);
-    }
-
 }
